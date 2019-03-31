@@ -1,2 +1,3 @@
 This is to demonstrate the git push feature.
 This is the second modification to the file.
+Changes to file in branch my-bug-fix
